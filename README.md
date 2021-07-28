@@ -12,7 +12,7 @@
 
 ## Features
 
-- generate logo like **Pornhub**
+- generate logo like ************
 - download your own logo in PNG format
 - customize logo color
 - customize logo font size
